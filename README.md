@@ -185,7 +185,7 @@ Automatic-Garbage-Segregation-ESP32/
 ## Author / contributors
 
 - **Author:** [Manish Patil]
-- **Institution:** [College / University]
+- **Institution:** [Amrutvahini College Of Engineering]
 - **Department:** [Electronics and Telecommunications Engineering]
 - **Academic year:** [2024-2025]
 
