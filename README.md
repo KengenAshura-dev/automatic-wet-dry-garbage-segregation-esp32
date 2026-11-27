@@ -189,6 +189,5 @@ Automatic-Garbage-Segregation-ESP32/
 - **Department:** [Electronics and Telecommunications Engineering]
 - **Academic year:** [2024-2025]
 
-## License
 
 
